@@ -21,7 +21,7 @@ class Course extends Student{//child cls
 
 public class Solapur_Batch {
 	public static void main(String[] args) {
-		Course obj = new Course(2,"Pranita Prajwal Bobe",3000f);
+		Course obj = new Course(2," Prajwal Bobe",3000f);
 		obj.show();
 	}
 }
